@@ -1,0 +1,36 @@
+    Computer Science 3340B Assignment Academic Consideration Form
+
+If you have requested an academic consideration through faculty academic 
+counselling for this assignment, this form must be submitted with your 
+assignment.
+
+Failure to complete and submit this form will result in the disregarding
+of your academic consideration for the assignment.
+
+=========================================================================
+
+Please fill in the following information:
+
+  Assignment #: 3         
+  Student last name: Xie
+  Student first name: Daniel     
+  Student number: 251075206         
+  GAUL user name: dxie32@compute.gaul.csd.uwo.ca      
+
+=========================================================================
+
+If you requested an academic consideration with an academic advisor
+and received counselling office's recommendation for this assignment,
+you must include the following information.
+
+  I have requested an academic consideration for the following days:
+  from   /  /2023 (dd/mm/yyyy) to   /  /2023 (dd/mm/yyyy).
+
+  Included below is a text copy of the email (or the document) I received
+	from the academic advisor after my request.
+
+  == Included email for academic consideration begin =============
+
+
+
+  == Included email for academic consideration end   =============
